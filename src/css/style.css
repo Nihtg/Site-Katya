@@ -4,12 +4,36 @@
 }
 .pekareva{
     text-align: center;
-    
-}
-.container{
-    
+    Font-size: 30px;
 }
 .dob{
     text-align: center;
     font-size: 30px;
+    padding: 30px 10px;
+    border: 2px solid blueviolet;
+}
+
+.btn btn-info{
+    text-align: center;
+    font-size: 15px;
+    width: 150px;
+    height: 30px;
+}
+.btn btn-primary{
+    text-align: center;
+    font-size: 15px;
+    width: 150px;
+    height: 30px;
+}
+.btn btn-danger{
+    text-align: center;
+    font-size: 15px;
+    width: 150px;
+    height: 30px;
+}
+.btn btn-success{
+    text-align: center;
+    font-size: 15px;
+    width: 150px;
+    height: 30px;
 }
