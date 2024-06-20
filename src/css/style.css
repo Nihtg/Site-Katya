@@ -13,6 +13,11 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+
+}
+.img-fluid{
+      min-width: 100%; 
+     height: auto;
 }
 .knopki{
     text-align: center;
